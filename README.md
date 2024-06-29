@@ -18,8 +18,7 @@ Link to the website: https://e-roydev-resume.onrender.com/
 - **ReactJS**: A JavaScript library for building user interfaces
 - **Tailwind CSS**: A utility-first CSS framework
 - **HTML5**: Markup language for creating web pages
-- **CSS3**: Style sheet language for designing web pages
-
+- **CSS3**: Style sheet language for designing some animations
 ---
 
 
