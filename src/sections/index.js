@@ -25,6 +25,7 @@ import figmaImg from '../assets/Images/technologies/figma.svg';
 import tailwindImg from '../assets/Images/technologies/tailwind.svg';
 import firebaseImg from '../assets/Images/technologies/firebase.svg'
 
+
 const techStackData = [
     {name: "Python", imageUrl: pythonImg},
     {name: "JavaScript", imageUrl: javascriptImg},
